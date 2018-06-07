@@ -35,6 +35,7 @@
     .redeem > ul > li { width: 49%!important; }
     .started > article .sbmit-strt input[type="submit"] { font-size: 20px!important; height: 55px!important; }
     h3.title_tg { font-size: 40px!important; }
+    .ourteam .team-list > ul li div.itmhldr article > div.graybg h4{ font-size: 20px!important }
 }
 
 @media only screen and (max-width: 1175px){
@@ -48,6 +49,10 @@
 
 @media only screen and (max-width: 1037px ){
     .nav-custom li { padding: 20px 5px!important; }
+}
+
+@media only screen and (max-width: 1024px){
+    .ourteam .team-list > ul li { width: 49%!important; }
 }
 
 @media only screen and (max-width: 999px){
@@ -98,6 +103,8 @@
     footer > ul { text-align: center; }
     footer li > a img { margin: 0 auto; }
     .select-none { display: block!important; }
+    .ourteam .team article > div p { font-size: 16px!important; }
+    .ourteam .team article > div { padding: 18px 15px!important; }
 }
 
 @media only screen and (max-width: 690px){
@@ -124,6 +131,10 @@
     .redeem > ul > li figure { height: 150px!important; max-width: 380px!important;margin: 0 auto; }
     h3.title_tg { font-size: 30px!important; }
     footer li { width: 49%!important }
+    .ourteam .team article > div { padding: 18px 0px!important }
+    .ourteam .team-list > ul li { width:  100%!important; margin-bottom: 50px!important }
+    .ourteam .team-list > ul li div.itmhldr article > div.whitebg { display: block!important; }
+    .ourteam .team-list > ul li div.itmhldr article { position: relative!important; bottom: auto!important; top: -43px!important; }
 }
 
 @media only screen and (max-width: 479px){

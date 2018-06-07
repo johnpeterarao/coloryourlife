@@ -706,9 +706,7 @@ footer {
           bottom: -45px;
           left: 50%;
           transform: translate(-50%, 0%);
-          width: 100%;
-          max-width: 352px;
-          width: 100%;
+          width: 90%;
           transition: 0.5s; }
           .ourteam .team-list > ul li div.itmhldr article > div.graybg {
             background: #f0f0f0;
